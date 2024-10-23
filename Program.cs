@@ -31,6 +31,23 @@
 //Console.WriteLine("Orijinal Yazı: \"" + name + "\"");
 //Console.WriteLine("bosluqlari silinmis yazi: \"" + sum + "\"");
 
+//string word = "   salam necesen";
+//int starIndex = 0;
+//for (int i = 0; i < word.Length; i++)
+//{
+//    if (word[i] == ' ')
+//    {
+//        starIndex++;
+//    }
+//    else
+//        break;
+//}
+//string name = "";
+//for (int i = starIndex; i < word.Length; i++)
+//{
+//    name+= word[i];
+//}
+//Console.WriteLine(name);
 #endregion
 
 #region Tas4

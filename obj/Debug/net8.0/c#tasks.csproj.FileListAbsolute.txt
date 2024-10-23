@@ -12,3 +12,4 @@ C:\Users\WINNER\source\repos\c#tasks\obj\Debug\net8.0\refint\c#tasks.dll
 C:\Users\WINNER\source\repos\c#tasks\obj\Debug\net8.0\c#tasks.pdb
 C:\Users\WINNER\source\repos\c#tasks\obj\Debug\net8.0\c#tasks.genruntimeconfig.cache
 C:\Users\WINNER\source\repos\c#tasks\obj\Debug\net8.0\ref\c#tasks.dll
+C:\Users\WINNER\source\repos\c#tasks\obj\Debug\net8.0\c#tasks.sourcelink.json
