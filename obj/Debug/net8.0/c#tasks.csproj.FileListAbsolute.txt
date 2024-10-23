@@ -1,0 +1,14 @@
+C:\Users\WINNER\source\repos\c#tasks\bin\Debug\net8.0\c#tasks.exe
+C:\Users\WINNER\source\repos\c#tasks\bin\Debug\net8.0\c#tasks.deps.json
+C:\Users\WINNER\source\repos\c#tasks\bin\Debug\net8.0\c#tasks.runtimeconfig.json
+C:\Users\WINNER\source\repos\c#tasks\bin\Debug\net8.0\c#tasks.dll
+C:\Users\WINNER\source\repos\c#tasks\bin\Debug\net8.0\c#tasks.pdb
+C:\Users\WINNER\source\repos\c#tasks\obj\Debug\net8.0\c#tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINNER\source\repos\c#tasks\obj\Debug\net8.0\c#tasks.AssemblyInfoInputs.cache
+C:\Users\WINNER\source\repos\c#tasks\obj\Debug\net8.0\c#tasks.AssemblyInfo.cs
+C:\Users\WINNER\source\repos\c#tasks\obj\Debug\net8.0\c#tasks.csproj.CoreCompileInputs.cache
+C:\Users\WINNER\source\repos\c#tasks\obj\Debug\net8.0\c#tasks.dll
+C:\Users\WINNER\source\repos\c#tasks\obj\Debug\net8.0\refint\c#tasks.dll
+C:\Users\WINNER\source\repos\c#tasks\obj\Debug\net8.0\c#tasks.pdb
+C:\Users\WINNER\source\repos\c#tasks\obj\Debug\net8.0\c#tasks.genruntimeconfig.cache
+C:\Users\WINNER\source\repos\c#tasks\obj\Debug\net8.0\ref\c#tasks.dll
